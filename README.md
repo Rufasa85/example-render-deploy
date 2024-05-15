@@ -1,1 +1,1 @@
-# ts-render
+# example-render-app
